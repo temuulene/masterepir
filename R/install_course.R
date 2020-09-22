@@ -10,7 +10,7 @@
 #' @export
 install_course <- function(path = ".") {
   usethis::use_course(
-    "malcolmbarrett/mastering_r_for_epi",
+    "temuulene/mastering_r_for_epi",
     normalizePath(path)
   )
 }

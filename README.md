@@ -13,7 +13,7 @@ You can install masterepir from this repository with
 
 ``` r
 install.packages("remotes")
-remotes::install_github("malcolmbarrett/masterepir")
+remotes::install_github("temuulene/masterepir")
 ```
 
 Once you’ve installed the package, install the course with
